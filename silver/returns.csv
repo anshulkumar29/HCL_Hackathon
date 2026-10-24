@@ -1,0 +1,59 @@
+return_id,order_item_id,return_date,return_reason,refund_amount,return_status,return_date_ambiguous,refund_missing,refund_exceeds_line_total,return_before_order
+R0018,OI000526,2024-01-21,Wrong Item,18739.92,Approved,False,False,False,True
+R0045,OI000620,2025-11-12,Size Issue,6474.73,Approved,True,False,False,False
+R0044,OI000640,2024-04-02,Wrong Item,25783.29,Rejected,False,False,False,True
+R0002,OI000546,2024-06-18,Not As Described,18753.51,Approved,False,False,False,True
+R0053,OI000045,2024-03-21,Wrong Item,,Approved,False,True,False,True
+R0063,OI000346,2025-09-03,Defective,13543.13,Rejected,True,False,False,False
+R0014,OI000500,2025-03-04,Not As Described,40241.54,Pending,False,False,False,False
+R0005,OI000302,2024-09-26,Size Issue,,Rejected,False,True,False,True
+R0025,OI000398,2024-09-18,Not As Described,86054.34,Approved,False,False,False,False
+R0019,OI000301,2025-01-14,Not As Described,,Pending,False,True,False,True
+R0016,OI000491,2025-01-09,Defective,59773.61,Approved,True,False,False,False
+R0026,OI000303,2025-10-19,Size Issue,60115.27,Approved,False,False,False,False
+R0029,OI000002,2024-06-04,Not As Described,41619.4,Approved,False,False,False,False
+R0011,OI000683,2025-10-31,Wrong Item,19412.51,Rejected,False,False,False,False
+R0028,OI000741,2025-03-03,Wrong Item,20262.14,Pending,False,False,False,False
+R0006,OI000299,2023-01-01,Not As Described,75816.05,Approved,False,False,False,True
+R0046,OI000117,2025-10-29,Wrong Item,74184.94,Approved,False,False,False,False
+R0042,OI000027,2025-04-27,Size Issue,10324.63,Approved,False,False,False,False
+R0062,OI000790,2025-09-30,Not As Described,59302.19,Approved,False,False,False,False
+R0051,OI000312,2025-01-16,Defective,19128.89,Approved,False,False,False,False
+R0056,OI000317,2025-05-12,Size Issue,10327.76,Pending,True,False,False,False
+R0038,OI000769,2025-01-05,Wrong Item,34020.93,Pending,False,False,False,False
+R0004,OI000420,2024-08-16,Wrong Item,47839.34,Pending,False,False,False,True
+R0003,OI000758,2024-12-28,Not As Described,40668.25,Approved,False,False,False,False
+R0022,OI000149,2023-01-01,Size Issue,63852.01,Rejected,False,False,False,True
+R0008,OI000142,2024-08-28,Not As Described,110787.58,Rejected,False,False,False,False
+R0036,OI000265,2024-05-21,Not As Described,18739.4,Approved,False,False,False,False
+R0033,OI000053,2025-09-14,Defective,43021.01,Rejected,False,False,False,False
+R0047,OI000786,2024-04-09,Defective,63225.26,Pending,False,False,False,True
+R0013,OI000084,2023-01-01,Not As Described,62797.05,Approved,False,False,False,True
+R0037,OI000719,2024-04-04,Defective,20754.81,Approved,False,False,False,True
+R0032,OI000175,2025-10-25,Not As Described,41664.34,Approved,False,False,False,False
+R0049,OI000375,2023-01-01,Wrong Item,11703.26,Rejected,False,False,False,True
+R0007,OI000668,2024-08-25,Wrong Item,20423.44,Approved,False,False,False,True
+R0040,OI000018,2025-08-13,Size Issue,108702.96,Approved,False,False,True,False
+R0024,OI000157,2024-03-01,Size Issue,48644.66,Rejected,False,False,False,True
+R0059,OI000569,2024-10-10,Defective,10420.55,Approved,False,False,False,True
+R0043,OI000081,2024-12-24,Size Issue,39878.02,Rejected,False,False,False,False
+R0021,OI000630,2023-01-01,Defective,23398.87,Approved,False,False,False,True
+R0057,OI000174,2025-07-06,Not As Described,4892.22,Rejected,True,False,False,False
+R0017,OI000633,2025-07-11,Size Issue,62001.57,Approved,False,False,False,False
+R0050,OI000641,2024-08-05,Wrong Item,9727.89,Rejected,True,False,False,True
+R0031,OI000488,2024-04-14,Wrong Item,14407.22,Rejected,False,False,False,True
+R0020,OI000019,2024-07-10,Wrong Item,26892.27,Rejected,True,False,False,True
+R0041,OI000036,2024-07-30,Wrong Item,34576.69,Approved,False,False,False,True
+R0052,OI000210,2025-10-10,Wrong Item,8184.16,Rejected,False,False,True,True
+R0039,OI000593,2025-07-01,Wrong Item,8500.09,Rejected,False,False,False,True
+R0064,OI000697,2025-09-30,Defective,36219.09,Approved,False,False,True,True
+R0035,OI000463,2025-01-05,Not As Described,20370.24,Pending,False,False,False,True
+R0058,OI000363,2025-08-25,Damaged,74191.07,Rejected,False,False,False,False
+R0055,OI000086,2025-08-24,Defective,4429.86,Rejected,False,False,False,False
+R0027,OI000658,2025-02-22,Size Issue,20843.86,Pending,False,False,True,False
+R0030,OI000578,2024-06-13,Not As Described,3762.23,Approved,False,False,False,False
+R0061,OI000502,2024-10-30,Size Issue,,Rejected,False,True,False,False
+R0015,OI000187,2025-08-24,Size Issue,81985.66,Rejected,False,False,False,True
+R0009,OI000155,2025-03-03,Defective,17236.27,Approved,False,False,False,True
+R0054,OI000269,2024-08-05,Defective,78750.76,Approved,True,False,False,True
+R0012,OI000717,2024-12-08,Size Issue,5659.73,Rejected,False,False,False,False

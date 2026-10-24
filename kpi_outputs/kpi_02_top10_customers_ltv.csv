@@ -1,0 +1,11 @@
+customer_id,customer_name,segment,city,completed_orders,gross_value,approved_refunds,net_lifetime_value
+C0118,Utkarsh Bhat,Gold,Hyderabad,3,532447.01,0.0,532447.01
+C0107,Eesha Sethi,Silver,Kolkata,2,463604.51,0.0,463604.51
+C0061,Yadavi Bhakta,Platinum,Chennai,2,341730.61,0.0,341730.61
+C0148,Ucchal Thaker,Bronze,Jaipur,3,329199.64,0.0,329199.64
+C0142,Zansi Prasad,Platinum,Ahmedabad,4,328510.36,0.0,328510.36
+C0001,Isaac Bakshi,Bronze,Bangalore,4,377880.04,75816.05,302063.99
+C0085,Chakrika Koshy,Silver,Chennai,3,291047.36,0.0,291047.36
+C0078,Umang Mital,Platinum,Delhi,3,284225.67,0.0,284225.67
+C0033,Hamsini Rao,Gold,Lucknow,2,268013.97,0.0,268013.97
+C0129,Siddharth Bains,Platinum,Delhi,3,284905.07,19128.89,265776.18

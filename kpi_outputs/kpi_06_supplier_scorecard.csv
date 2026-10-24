@@ -1,0 +1,20 @@
+rank_no,supplier_id,supplier_name,country,products_sold,net_revenue,avg_return_rate_pct,rating,revenue_scaled,return_scaled,rating_scaled,score
+1,S006,"Lalla, Ganesh and Oommen",Germany,9,2469077.71,2.29,3.75,1.0,0.857,0.632,84.68
+2,S007,"Biswas, Karpe and Radhakrishnan",,6,1861322.65,0.0,4.2,0.728,1.0,0.765,82.08
+3,S015,"Chaudhari, Sandal and Desai",India,4,1821770.44,2.27,4.1,0.711,0.858,0.735,76.23
+4,S004,"Sinha, Subramaniam and Garde",China,4,1612831.39,6.52,4.7,0.617,0.592,0.912,69.81
+5,S005,Dhar-Gopal,Germany,2,910835.69,0.0,4.5,0.304,1.0,0.853,67.73
+6,S018,"Amble, Virk and Dalal",Vietnam,4,615765.99,2.27,5.0,0.172,0.858,1.0,62.61
+7,S001,"Baral, Din and Bhalla",,3,1336183.94,7.1,4.3,0.494,0.556,0.794,60.26
+8,S009,"Saini, Doctor and Char",Germany,2,657783.34,0.0,4.0,0.191,1.0,0.706,58.8
+9,S008,Babu and Sons,India,2,611245.71,0.0,3.7,0.17,1.0,0.618,55.32
+10,S010,"Barad, Wali and Thakur",Germany,3,451335.48,4.76,4.9,0.098,0.702,0.971,54.12
+11,S003,"Bahl, Mander and Chada",Vietnam,4,874011.89,0.0,2.9,0.287,1.0,0.382,52.96
+12,S016,Chacko LLC,Germany,1,343046.92,0.0,3.85,0.05,1.0,0.662,51.85
+13,S014,Raj-Palla,,5,1166889.04,1.94,2.5,0.418,0.879,0.265,51.03
+14,S012,"Zacharia, Agarwal and Sankar",Vietnam,5,1387406.72,8.05,3.0,0.517,0.497,0.412,47.92
+15,S013,Bassi-Wagle,China,4,770973.23,0.0,1.6,0.241,1.0,0.0,39.64
+16,S011,Subramaniam Ltd,Vietnam,4,571342.4,8.93,3.3,0.152,0.442,0.5,34.33
+17,S002,Varughese Group,Germany,3,961090.56,11.14,2.5,0.326,0.304,0.265,30.1
+18,S017,"Rege, Kurian and Gulati",Vietnam,1,231513.82,16.0,2.7,0.0,0.0,0.324,9.71
+,UNKNOWN,Unknown supplier,,4,636215.85,12.92,,,,,

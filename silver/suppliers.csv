@@ -1,0 +1,19 @@
+supplier_id,supplier_name,country,rating,contract_start_date,is_preferred,rating_raw,rating_scale_raw,contract_date_ambiguous
+S001,"Baral, Din and Bhalla",,4.3,2018-12-11,False,4.3,0-5,False
+S002,Varughese Group,Germany,2.5,2019-03-02,False,2.5,0-5,False
+S003,"Bahl, Mander and Chada",Vietnam,2.9,2022-03-12,False,2.9,0-5,False
+S004,"Sinha, Subramaniam and Garde",China,4.7,2019-07-08,True,9.4,0-10,False
+S005,Dhar-Gopal,Germany,4.5,2019-07-15,True,4.5,0-5,False
+S006,"Lalla, Ganesh and Oommen",Germany,3.75,2022-05-12,False,7.5,0-10,False
+S007,"Biswas, Karpe and Radhakrishnan",,4.2,2024-06-15,False,4.2,0-5,False
+S008,Babu and Sons,India,3.7,2020-09-12,False,3.7,0-5,False
+S009,"Saini, Doctor and Char",Germany,4.0,2021-08-29,False,4.0,0-5,False
+S010,"Barad, Wali and Thakur",Germany,4.9,2019-03-30,False,4.9,0-5,False
+S011,Subramaniam Ltd,Vietnam,3.3,2023-04-08,False,3.3,0-5,False
+S012,"Zacharia, Agarwal and Sankar",Vietnam,3.0,2018-11-30,False,3.0,0-5,False
+S013,Bassi-Wagle,China,1.6,2021-08-27,True,1.6,0-5,False
+S014,Raj-Palla,,2.5,2021-01-01,True,2.5,0-5,False
+S015,"Chaudhari, Sandal and Desai",India,4.1,2022-02-14,False,4.1,0-5,False
+S016,Chacko LLC,Germany,3.85,2019-10-13,False,7.7,0-10,False
+S017,"Rege, Kurian and Gulati",Vietnam,2.7,2022-03-10,True,2.7,0-5,False
+S018,"Amble, Virk and Dalal",Vietnam,5.0,2018-01-14,False,5.0,0-5,False

@@ -1,0 +1,21 @@
+list_name,rank_no,product_id,product_name,category,ordered_qty,returned_qty,return_rate_pct
+Top 10 - highest return rate,1,P029,Furniture Item 29,Home & Kitchen,28,6,21.43
+Top 10 - highest return rate,2,P052,Womenswear Item 52,Fashion,27,5,18.52
+Top 10 - highest return rate,3,P057,Team Sports Item 57,Sports,29,5,17.24
+Top 10 - highest return rate,4,P040,Footwear Item 40,Fashion,31,5,16.13
+Top 10 - highest return rate,5,P009,Furniture Item 9,Home & Kitchen,25,4,16.0
+Top 10 - highest return rate,6,P034,Fitness Item 34,Sports,25,4,16.0
+Top 10 - highest return rate,7,P030,Furniture Item 30,Home & Kitchen,26,4,15.38
+Top 10 - highest return rate,8,P021,Fitness Item 21,Sports,35,5,14.29
+Top 10 - highest return rate,9,P035,Cookware Item 35,Home & Kitchen,28,4,14.29
+Top 10 - highest return rate,10,P058,Snacks Item 58,Grocery,28,3,10.71
+Bottom 10 - lowest return rate,1,P061,Furniture Item 61,Home & Kitchen,51,0,0.0
+Bottom 10 - lowest return rate,2,P031,Accessories Item 31,Electronics,43,0,0.0
+Bottom 10 - lowest return rate,3,P012,Menswear Item 12,Fashion,40,0,0.0
+Bottom 10 - lowest return rate,4,P068,Staples Item 68,Grocery,37,0,0.0
+Bottom 10 - lowest return rate,5,P002,Furniture Item 2,Home & Kitchen,33,0,0.0
+Bottom 10 - lowest return rate,6,P016,Footwear Item 16,Fashion,32,0,0.0
+Bottom 10 - lowest return rate,7,P041,Cookware Item 41,Home & Kitchen,32,0,0.0
+Bottom 10 - lowest return rate,8,P055,Staples Item 55,Grocery,32,0,0.0
+Bottom 10 - lowest return rate,9,P004,Appliances Item 4,Home & Kitchen,30,0,0.0
+Bottom 10 - lowest return rate,10,P037,Mobiles Item 37,Electronics,30,0,0.0

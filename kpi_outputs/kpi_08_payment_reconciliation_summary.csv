@@ -1,0 +1,9 @@
+recon_status,orders,expected_total,paid_success
+Matched,111,9772884.77,9772152.88
+No successful payment,63,5435482.92,0.0
+Underpaid,40,3785562.5,2561082.81
+Overpaid,36,3359474.01,4372716.22
+Payment on cancelled order,35,3169001.78,3374930.66
+Pending - not paid yet (OK),25,2601591.38,0.0
+Cancelled - no payment (OK),8,707619.88,0.0
+Order has no items,2,0.0,0.0

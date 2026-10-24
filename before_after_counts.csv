@@ -1,0 +1,8 @@
+table,raw_rows,exact_dups_dropped,conflicting_dups_dropped,quarantined,flagged_kept,silver_rows,raw_null_cells,silver_null_cells
+customers,163,5,0,0,0,158,17,19
+products,75,0,5,0,4,70,7,6
+suppliers,19,0,1,0,0,18,4,3
+orders,323,3,0,0,15,320,228,227
+order_items,802,5,0,28,0,769,5,0
+payments,329,4,0,8,0,317,10,10
+returns,68,3,0,7,0,58,4,4

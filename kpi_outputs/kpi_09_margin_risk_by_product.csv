@@ -1,0 +1,28 @@
+product_id,product_name,category,lines_affected,units_affected,revenue_exposed,total_loss
+P065,Footwear Item 65,Fashion,14,44,637664.84,387125.54
+P013,Appliances Item 13,Home & Kitchen,9,22,308547.93,240142.85
+P060,Staples Item 60,Grocery,7,24,257422.93,188407.07
+P039,Fitness Item 39,Sports,5,19,99789.68,177181.11
+P001,Accessories Item 1,Electronics,5,13,134858.99,83535.94
+P003,Staples Item 3,Grocery,9,28,242417.08,54457.11
+P028,Appliances Item 28,Home & Kitchen,7,19,125241.49,54452.52
+P020,Beverages Item 20,Grocery,8,25,83231.65,46062.85
+P006,Furniture Item 6,Home & Kitchen,4,11,30205.6,19843.63
+P051,Footwear Item 51,Fashion,3,6,8336.15,19112.95
+P002,Furniture Item 2,Home & Kitchen,5,22,180159.99,18437.76
+P056,Audio Item 56,Electronics,6,15,199254.7,16376.75
+P010,Accessories Item 10,Electronics,7,21,22733.69,13610.18
+P027,Appliances Item 27,Home & Kitchen,2,9,153100.41,10908.12
+P034,Fitness Item 34,Sports,4,14,137221.56,7651.84
+P063,Beverages Item 63,Grocery,3,12,90376.95,6542.02
+P040,Footwear Item 40,Fashion,4,16,18831.48,6181.0
+P055,Staples Item 55,Grocery,6,17,76597.92,6051.15
+P042,Staples Item 42,Grocery,3,5,45701.78,4555.97
+P008,,Fashion,3,10,128245.47,3518.32
+P021,Fitness Item 21,Sports,2,8,20382.78,2025.22
+P054,Fitness Item 54,Sports,2,8,131078.66,1531.26
+P036,Staples Item 36,Grocery,1,3,10978.58,654.52
+P019,Beverages Item 19,Grocery,4,11,69322.97,596.0
+P062,Cookware Item 62,Home & Kitchen,2,9,61154.78,121.99
+P053,Outdoor Item 53,Sports,1,4,23403.68,116.36
+P005,Staples Item 5,Grocery,1,2,28697.52,100.54

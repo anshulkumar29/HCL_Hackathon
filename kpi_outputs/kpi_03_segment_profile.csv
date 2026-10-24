@@ -1,0 +1,5 @@
+segment,customers,customers_with_completed_order,completed_orders,total_order_value,avg_order_value,avg_order_value_after_returns
+Gold,38,21,33,3195581.49,96835.8,93823.28
+Silver,40,25,36,3259623.23,90545.09,86200.89
+Platinum,44,30,52,4053544.73,77952.78,76512.09
+Bronze,36,22,36,2788736.47,77464.9,72698.72
